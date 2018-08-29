@@ -1,0 +1,3 @@
+rootProject.name = 'nosync56'
+
+include ':app'
